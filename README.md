@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+⚡ 訓練で利用するときのリポジトリだよ！
+
+
 <!--
 **Polytech-Smart/Polytech-Smart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
